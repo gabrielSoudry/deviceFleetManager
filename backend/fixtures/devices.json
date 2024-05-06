@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2456",
+    "clientId": "🍎 Apple",
+    "manufacturer": "LENOVO",
+    "model": "81Y4",
+    "serialNumber": "KJHB785757IU",
+    "cpu": "Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_1000&DEV_OOO1&SUBSYS_00000000&REV_02",
+    "security": {
+      "firewall": false,
+      "antivirus": false,
+      "encryption": false
+    },
+    "user": "john.doe@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "7890",
+    "clientId": "⚡ Thunder",
+    "manufacturer": "DELL",
+    "model": "XPS 15",
+    "serialNumber": "JHG8790IUYT",
+    "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+    "ram": 32,
+    "storage": 1024,
+    "hardwareId": "VEN_2000&DEV_OOO2&SUBSYS_00000000&REV_03",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "jane.smith@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "1234",
+    "clientId": "⚡ Thunder",
+    "manufacturer": "HP",
+    "model": "Pavilion 15",
+    "serialNumber": "ABCD1234EFGH",
+    "cpu": "AMD Ryzen 5 4500U",
+    "ram": 8,
+    "storage": 256,
+    "hardwareId": "VEN_3000&DEV_OOO3&SUBSYS_00000000&REV_04",
+    "security": {
+      "firewall": false,
+      "antivirus": true,
+      "encryption": false
+    },
+    "user": "michael.johnson@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "5678",
+    "clientId": "⚡ Thunder",
+    "manufacturer": "ASUS",
+    "model": "ZenBook 14",
+    "serialNumber": "EFGH5678IJKL",
+    "cpu": "AMD Ryzen 7 4700U",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_4000&DEV_OOO4&SUBSYS_00000000&REV_05",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "emily.williams@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "9012",
+    "clientId": "⚡ Thunder",
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop 3",
+    "serialNumber": "IJKL9012MNOP",
+    "cpu": "Intel(R) Core(TM) i5-1035G7 CPU @ 1.20GHz",
+    "ram": 16,
+    "storage": 256,
+    "hardwareId": "VEN_5000&DEV_OOO5&SUBSYS_00000000&REV_06",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "david.brown@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "3456",
+    "clientId": "💻 Everping",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro",
+    "serialNumber": "MNOP3456QRST",
+    "cpu": "Apple M1",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_6000&DEV_OOO6&SUBSYS_00000000&REV_07",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "olivia.davis@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "6789",
+    "clientId": "💻 Everping",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Book Flex",
+    "serialNumber": "QRSTUV6789WXYZ",
+    "cpu": "Intel Core i7-1065G7",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_7000&DEV_OOO7&SUBSYS_00000000&REV_08",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "william.jones@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "2345",
+    "clientId": "🎮 Activision",
+    "manufacturer": "Acer",
+    "model": "Swift 3",
+    "serialNumber": "STUV2345WXYZ",
+    "cpu": "AMD Ryzen 7 4700U",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_8000&DEV_OOO8&SUBSYS_00000000&REV_09",
+    "security": {
+      "firewall": true,
+      "antivirus": false,
+      "encryption": true
+    },
+    "user": "sophia.miller@gmail.com",
+    "lastCheckInDate": 1714861595
+  },
+  {
+    "id": "7891",
+    "clientId": "🎮 Activision",
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "serialNumber": "UVWX7891YZAB",
+    "cpu": "Intel Core i7-10510U",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_9000&DEV_OOO9&SUBSYS_00000000&REV_10",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "ethan.wilson@gmail.com",
+    "lastCheckInDate": 1712269595
+  },
+  {
+    "id": "9010",
+    "clientId": "🎮 Activision",
+    "manufacturer": "HP",
+    "model": "EliteBook 840",
+    "serialNumber": "YZAB9010CDEF",
+    "cpu": "Intel Core i5-10310U",
+    "ram": 16,
+    "storage": 512,
+    "hardwareId": "VEN_10000&DEV_OOO10&SUBSYS_00000000&REV_11",
+    "security": {
+      "firewall": true,
+      "antivirus": true,
+      "encryption": true
+    },
+    "user": "ava.moore@gmail.com",
+    "lastCheckInDate": 1714861595
+  }
+]

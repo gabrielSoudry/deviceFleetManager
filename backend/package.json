@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config src/index.ts"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.15.0",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.20"
+  }
+}
